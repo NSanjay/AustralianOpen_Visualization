@@ -1,0 +1,278 @@
+[
+ {
+ "year": [ 2008 ],
+"round": [ "Final" ],
+"player": [ "Novak Djokovic" ],
+"DM": [ 1.241379 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "semi" ],
+"player": [ "Novak Djokovic" ],
+"DM": [ 1.147059 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "semi" ],
+"player": [ "Jo-Wilfried Tsonga" ],
+"DM": [     1.84 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "quarter" ],
+"player": [ "Novak Djokovic" ],
+"DM": [ 1.484848 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "quarter" ],
+"player": [ "Roger Federer" ],
+"DM": [ 1.366667 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "quarter" ],
+"player": [ "Jo-Wilfried Tsonga" ],
+"DM": [ 1.826087 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "quarter" ],
+"player": [ "Rafael Nadal" ],
+"DM": [ 1.323529 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Fourth" ],
+"player": [ "Roger Federer" ],
+"DM": [ 1.384615 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Fourth" ],
+"player": [ "David Ferrer" ],
+"DM": [ 1.243243 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Fourth" ],
+"player": [ "Novak Djokovic" ],
+"DM": [ 1.289474 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Fourth" ],
+"player": [ "James Blake" ],
+"DM": [     1.48 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Fourth" ],
+"player": [ "Jarkko Nieminen" ],
+"DM": [ 0.9772727 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Fourth" ],
+"player": [ "Rafael Nadal" ],
+"DM": [        3 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Fourth" ],
+"player": [ "Mikhail Youzhny" ],
+"DM": [ 1.411765 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Fourth" ],
+"player": [ "Jo-Wilfried Tsonga" ],
+"DM": [ 1.357143 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Third" ],
+"player": [ "David Ferrer" ],
+"DM": [ 1.551724 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Third" ],
+"player": [ "James Blake" ],
+"DM": [    1.075 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Third" ],
+"player": [ "Novak Djokovic" ],
+"DM": [ 2.083333 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Third" ],
+"player": [ "Roger Federer" ],
+"DM": [      1.5 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Third" ],
+"player": [ "Jarkko Nieminen" ],
+"DM": [    1.125 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Third" ],
+"player": [ "Rafael Nadal" ],
+"DM": [      1.5 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Third" ],
+"player": [ "Jo-Wilfried Tsonga" ],
+"DM": [  1.62069 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Third" ],
+"player": [ "Mikhail Youzhny" ],
+"DM": [ 2.095238 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Second" ],
+"player": [ "James Blake" ],
+"DM": [ 1.923077 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Second" ],
+"player": [ "David Ferrer" ],
+"DM": [ 1.289474 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Second" ],
+"player": [ "Roger Federer" ],
+"DM": [ 2.521739 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Second" ],
+"player": [ "Novak Djokovic" ],
+"DM": [ 1.827586 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Second" ],
+"player": [ "Jo-Wilfried Tsonga" ],
+"DM": [ 1.607143 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Second" ],
+"player": [ "Rafael Nadal" ],
+"DM": [ 1.818182 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Second" ],
+"player": [ "Mikhail Youzhny" ],
+"DM": [ 1.088235 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Second" ],
+"player": [ "Jarkko Nieminen" ],
+"DM": [     1.25 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "First" ],
+"player": [ "Novak Djokovic" ],
+"DM": [ 1.666667 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "First" ],
+"player": [ "David Ferrer" ],
+"DM": [     2.32 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "First" ],
+"player": [ "Roger Federer" ],
+"DM": [     2.32 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "First" ],
+"player": [ "James Blake" ],
+"DM": [ 1.633333 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "First" ],
+"player": [ "Jarkko Nieminen" ],
+"DM": [   1.1875 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "First" ],
+"player": [ "Rafael Nadal" ],
+"DM": [ 1.413793 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "First" ],
+"player": [ "Jo-Wilfried Tsonga" ],
+"DM": [        1 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "First" ],
+"player": [ "Mikhail Youzhny" ],
+"DM": [      1.5 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "Final" ],
+"player": [ "Jo-Wilfried Tsonga" ],
+"DM": [ 0.8055556 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "semi" ],
+"player": [ "Roger Federer" ],
+"DM": [ 0.8717949 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "semi" ],
+"player": [ "Rafael Nadal" ],
+"DM": [ 0.5434783 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "quarter" ],
+"player": [ "David Ferrer" ],
+"DM": [ 0.6734694 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "quarter" ],
+"player": [ "James Blake" ],
+"DM": [ 0.7317073 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "quarter" ],
+"player": [ "Mikhail Youzhny" ],
+"DM": [ 0.547619 ] 
+},
+{
+ "year": [ 2008 ],
+"round": [ "quarter" ],
+"player": [ "Jarkko Nieminen" ],
+"DM": [ 0.7555556 ] 
+} 
+]

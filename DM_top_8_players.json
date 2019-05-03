@@ -1,0 +1,956 @@
+var top_8_players_2004 = [
+ {
+ "year": 2004 ,
+"round": "Final" ,
+"player": "Roger Federer" ,
+"DM":  1.40625  
+},
+{
+ "year": 2004 ,
+"round": "semi" ,
+"player": "Roger Federer" ,
+"DM": 1.392857  
+},
+{
+ "year": 2004 ,
+"round": "semi" ,
+"player": "Marat Safin" ,
+"DM":   1.0625  
+},
+{
+ "year": 2004 ,
+"round": "quarter" ,
+"player": "Juan Carlos Ferrero" ,
+"DM": 0.9411765  
+},
+{
+ "year": 2004 ,
+"round": "quarter" ,
+"player": "Roger Federer" ,
+"DM": 1.030303  
+},
+{
+ "year": 2004 ,
+"round": "quarter" ,
+"player": "Andre Agassi" ,
+"DM": 1.766667  
+},
+{
+ "year": 2004 ,
+"round": "quarter" ,
+"player": "Marat Safin" ,
+"DM": 0.9411765  
+},
+{
+ "year": 2004 ,
+"round": "Final" ,
+"player": "Marat Safin" ,
+"DM": 0.7111111  
+},
+{
+ "year": 2004 ,
+"round": "semi" ,
+"player": "Juan Carlos Ferrero" ,
+"DM": 0.7179487  
+},
+{
+ "year": 2004 ,
+"round": "semi" ,
+"player": "Andre Agassi" ,
+"DM": 0.9411765  
+},
+{
+ "year": 2004 ,
+"round": "quarter" ,
+"player": "Hicham Arazi" ,
+"DM":   1.0625  
+},
+{
+ "year": 2004 ,
+"round": "quarter" ,
+"player": "David Nalbandian" ,
+"DM": 0.9705882  
+},
+{
+ "year": 2004 ,
+"round": "quarter" ,
+"player": "Sebastien Grosjean" ,
+"DM": 0.5660377  
+},
+{
+ "year": 2004 ,
+"round": "quarter" ,
+"player": "Andy Roddick" ,
+"DM":   1.0625  
+}
+]
+
+var top_8_players_2005 = [
+{
+ "year": 2005 ,
+"round": "Final" ,
+"player": "Marat Safin" ,
+"DM": 1.147059  
+},
+{
+ "year": 2005 ,
+"round": "semi" ,
+"player": "Lleyton Hewitt" ,
+"DM":      1.2  
+},
+{
+ "year": 2005 ,
+"round": "semi" ,
+"player": "Marat Safin" ,
+"DM": 0.8857143  
+},
+{
+ "year": 2005 ,
+"round": "quarter" ,
+"player": "Lleyton Hewitt" ,
+"DM": 1.026316  
+},
+{
+ "year": 2005 ,
+"round": "quarter" ,
+"player": "Andy Roddick" ,
+"DM":      1.5  
+},
+{
+ "year": 2005 ,
+"round": "quarter" ,
+"player": "Roger Federer" ,
+"DM":     1.25  
+},
+{
+ "year": 2005 ,
+"round": "quarter" ,
+"player": "Marat Safin" ,
+"DM":     1.75  
+},
+{
+ "year": 2005 ,
+"round": "Final" ,
+"player": "Lleyton Hewitt" ,
+"DM": 0.8717949  
+},
+{
+ "year": 2005 ,
+"round": "semi" ,
+"player": "Andy Roddick" ,
+"DM": 0.8333333  
+},
+{
+ "year": 2005 ,
+"round": "semi" ,
+"player": "Roger Federer" ,
+"DM": 1.129032  
+},
+{
+ "year": 2005 ,
+"round": "quarter" ,
+"player": "David Nalbandian" ,
+"DM": 0.974359  
+},
+{
+ "year": 2005 ,
+"round": "quarter" ,
+"player": "Nikolay Davydenko" ,
+"DM": 0.6666667  
+},
+{
+ "year": 2005 ,
+"round": "quarter" ,
+"player": "Andre Agassi" ,
+"DM":      0.8  
+},
+{
+ "year": 2005 ,
+"round": "quarter" ,
+"player": "Dominik Hrbaty" ,
+"DM": 0.5714286  
+}
+]
+
+var top_8_players_2006 = [
+{
+ "year": 2006 ,
+"round": "Final" ,
+"player": "Roger Federer" ,
+"DM": 1.210526  
+},
+{
+ "year": 2006 ,
+"round": "semi" ,
+"player": "Roger Federer" ,
+"DM":      1.5  
+},
+{
+ "year": 2006 ,
+"round": "semi" ,
+"player": "Marcos Baghdatis" ,
+"DM": 1.051282  
+},
+{
+ "year": 2006 ,
+"round": "quarter" ,
+"player": "Roger Federer" ,
+"DM": 1.058824  
+},
+{
+ "year": 2006 ,
+"round": "quarter" ,
+"player": "Nicolas Kiefer" ,
+"DM": 0.9318182  
+},
+{
+ "year": 2006 ,
+"round": "quarter" ,
+"player": "David Nalbandian" ,
+"DM": 2.111111  
+},
+{
+ "year": 2006 ,
+"round": "quarter" ,
+"player": "Marcos Baghdatis" ,
+"DM": 1.166667  
+},
+{
+ "year": 2006 ,
+"round": "Final" ,
+"player": "Marcos Baghdatis" ,
+"DM": 0.826087  
+},
+{
+ "year": 2006 ,
+"round": "semi" ,
+"player": "Nicolas Kiefer" ,
+"DM": 0.6666667  
+},
+{
+ "year": 2006 ,
+"round": "semi" ,
+"player": "David Nalbandian" ,
+"DM": 0.9512195  
+},
+{
+ "year": 2006 ,
+"round": "quarter" ,
+"player": "Nikolay Davydenko" ,
+"DM": 0.9444444  
+},
+{
+ "year": 2006 ,
+"round": "quarter" ,
+"player": "Sebastien Grosjean" ,
+"DM": 1.073171  
+},
+{
+ "year": 2006 ,
+"round": "quarter" ,
+"player": "Fabrice Santoro" ,
+"DM": 0.4736842  
+},
+{
+ "year": 2006 ,
+"round": "quarter" ,
+"player": "Ivan Ljubicic" ,
+"DM": 0.8571429  
+}
+]
+
+var top_8_players_2007 = [
+{
+ "year": 2007 ,
+"round": "Final" ,
+"player": "Roger Federer" ,
+"DM":        2  
+},
+{
+ "year": 2007 ,
+"round": "semi" ,
+"player": "Fernando Gonzalez" ,
+"DM": 2.318182  
+},
+{
+ "year": 2007 ,
+"round": "semi" ,
+"player": "Roger Federer" ,
+"DM":      2.2  
+},
+{
+ "year": 2007 ,
+"round": "quarter" ,
+"player": "Tommy Haas" ,
+"DM": 1.081081  
+},
+{
+ "year": 2007 ,
+"round": "quarter" ,
+"player": "Fernando Gonzalez" ,
+"DM": 1.290323  
+},
+{
+ "year": 2007 ,
+"round": "quarter" ,
+"player": "Roger Federer" ,
+"DM": 1.424242  
+},
+{
+ "year": 2007 ,
+"round": "quarter" ,
+"player": "Andy Roddick" ,
+"DM": 2.347826  
+},
+{
+ "year": 2007 ,
+"round": "Final" ,
+"player": "Fernando Gonzalez" ,
+"DM":      0.5  
+},
+{
+ "year": 2007 ,
+"round": "semi" ,
+"player": "Tommy Haas" ,
+"DM": 0.4313725  
+},
+{
+ "year": 2007 ,
+"round": "semi" ,
+"player": "Andy Roddick" ,
+"DM": 0.4545455  
+},
+{
+ "year": 2007 ,
+"round": "quarter" ,
+"player": "Nikolay Davydenko" ,
+"DM":    0.925  
+},
+{
+ "year": 2007 ,
+"round": "quarter" ,
+"player": "Rafael Nadal" ,
+"DM":    0.775  
+},
+{
+ "year": 2007 ,
+"round": "quarter" ,
+"player": "Tommy Robredo" ,
+"DM": 0.7021277  
+},
+{
+ "year": 2007 ,
+"round": "quarter" ,
+"player": "Mardy Fish" ,
+"DM": 0.4259259  
+}
+]
+
+var top_8_players_2008 = [
+{
+ "year": 2008 ,
+"round": "Final" ,
+"player": "Novak Djokovic" ,
+"DM": 1.241379  
+},
+{
+ "year": 2008 ,
+"round": "semi" ,
+"player": "Novak Djokovic" ,
+"DM": 1.147059  
+},
+{
+ "year": 2008 ,
+"round": "semi" ,
+"player": "Jo-Wilfried Tsonga" ,
+"DM":     1.84  
+},
+{
+ "year": 2008 ,
+"round": "quarter" ,
+"player": "Novak Djokovic" ,
+"DM": 1.484848  
+},
+{
+ "year": 2008 ,
+"round": "quarter" ,
+"player": "Roger Federer" ,
+"DM": 1.366667  
+},
+{
+ "year": 2008 ,
+"round": "quarter" ,
+"player": "Jo-Wilfried Tsonga" ,
+"DM": 1.826087  
+},
+{
+ "year": 2008 ,
+"round": "quarter" ,
+"player": "Rafael Nadal" ,
+"DM": 1.323529  
+},
+{
+ "year": 2008 ,
+"round": "Final" ,
+"player": "Jo-Wilfried Tsonga" ,
+"DM": 0.8055556  
+},
+{
+ "year": 2008 ,
+"round": "semi" ,
+"player": "Roger Federer" ,
+"DM": 0.8717949  
+},
+{
+ "year": 2008 ,
+"round": "semi" ,
+"player": "Rafael Nadal" ,
+"DM": 0.5434783  
+},
+{
+ "year": 2008 ,
+"round": "quarter" ,
+"player": "David Ferrer" ,
+"DM": 0.6734694  
+},
+{
+ "year": 2008 ,
+"round": "quarter" ,
+"player": "James Blake" ,
+"DM": 0.7317073  
+},
+{
+ "year": 2008 ,
+"round": "quarter" ,
+"player": "Mikhail Youzhny" ,
+"DM": 0.547619  
+},
+{
+ "year": 2008 ,
+"round": "quarter" ,
+"player": "Jarkko Nieminen" ,
+"DM": 0.7555556  
+}
+]
+
+var top_8_players_2009 = [
+{
+ "year": 2009 ,
+"round": "Final" ,
+"player": "Rafael Nadal" ,
+"DM": 0.9756098  
+},
+{
+ "year": 2009 ,
+"round": "semi" ,
+"player": "Rafael Nadal" ,
+"DM": 1.096774  
+},
+{
+ "year": 2009 ,
+"round": "semi" ,
+"player": "Roger Federer" ,
+"DM": 1.384615  
+},
+{
+ "year": 2009 ,
+"round": "quarter" ,
+"player": "Rafael Nadal" ,
+"DM":    1.375  
+},
+{
+ "year": 2009 ,
+"round": "quarter" ,
+"player": "Fernando Verdasco" ,
+"DM": 1.090909  
+},
+{
+ "year": 2009 ,
+"round": "quarter" ,
+"player": "Roger Federer" ,
+"DM": 3.470588  
+},
+{
+ "year": 2009 ,
+"round": "quarter" ,
+"player": "Andy Roddick" ,
+"DM":     1.72  
+},
+{
+ "year": 2009 ,
+"round": "Final" ,
+"player": "Roger Federer" ,
+"DM":    1.025  
+},
+{
+ "year": 2009 ,
+"round": "semi" ,
+"player": "Fernando Verdasco" ,
+"DM": 0.9117647  
+},
+{
+ "year": 2009 ,
+"round": "semi" ,
+"player": "Andy Roddick" ,
+"DM": 0.7222222  
+},
+{
+ "year": 2009 ,
+"round": "quarter" ,
+"player": "Gilles Simon" ,
+"DM": 0.7272727  
+},
+{
+ "year": 2009 ,
+"round": "quarter" ,
+"player": "Jo-Wilfried Tsonga" ,
+"DM": 0.9166667  
+},
+{
+ "year": 2009 ,
+"round": "quarter" ,
+"player": "Juan Martin Del Potro" ,
+"DM": 0.2881356  
+},
+{
+ "year": 2009 ,
+"round": "quarter" ,
+"player": "Novak Djokovic" ,
+"DM": 0.5813953  
+}
+]
+
+var top_8_players_2010 = [
+{
+ "year": 2010 ,
+"round": "Final" ,
+"player": "Roger Federer" ,
+"DM":  1.15625  
+},
+{
+ "year": 2010 ,
+"round": "semi" ,
+"player": "Roger Federer" ,
+"DM": 1.863636  
+},
+{
+ "year": 2010 ,
+"round": "semi" ,
+"player": "Andy Murray" ,
+"DM": 1.258065  
+},
+{
+ "year": 2010 ,
+"round": "quarter" ,
+"player": "Roger Federer" ,
+"DM": 1.205128  
+},
+{
+ "year": 2010 ,
+"round": "quarter" ,
+"player": "Jo-Wilfried Tsonga" ,
+"DM": 0.9230769  
+},
+{
+ "year": 2010 ,
+"round": "quarter" ,
+"player": "Marin Cilic" ,
+"DM": 0.9736842  
+},
+{
+ "year": 2010 ,
+"round": "quarter" ,
+"player": "Andy Murray" ,
+"DM": 1.222222  
+},
+{
+ "year": 2010 ,
+"round": "Final" ,
+"player": "Andy Murray" ,
+"DM": 0.8648649  
+},
+{
+ "year": 2010 ,
+"round": "semi" ,
+"player": "Jo-Wilfried Tsonga" ,
+"DM": 0.5365854  
+},
+{
+ "year": 2010 ,
+"round": "semi" ,
+"player": "Marin Cilic" ,
+"DM": 0.7948718  
+},
+{
+ "year": 2010 ,
+"round": "quarter" ,
+"player": "Nikolay Davydenko" ,
+"DM": 0.8297872  
+},
+{
+ "year": 2010 ,
+"round": "quarter" ,
+"player": "Novak Djokovic" ,
+"DM": 1.083333  
+},
+{
+ "year": 2010 ,
+"round": "quarter" ,
+"player": "Andy Roddick" ,
+"DM": 1.027027  
+},
+{
+ "year": 2010 ,
+"round": "quarter" ,
+"player": "Rafael Nadal" ,
+"DM": 0.8181818  
+}
+]
+
+var top_8_players_2011 = [
+{
+ "year": 2011 ,
+"round": "Final" ,
+"player": "Novak Djokovic" ,
+"DM": 1.545455  
+},
+{
+ "year": 2011 ,
+"round": "semi" ,
+"player": "Andy Murray" ,
+"DM":      1.1  
+},
+{
+ "year": 2011 ,
+"round": "semi" ,
+"player": "Novak Djokovic" ,
+"DM": 1.027027  
+},
+{
+ "year": 2011 ,
+"round": "quarter" ,
+"player": "David Ferrer" ,
+"DM": 1.545455  
+},
+{
+ "year": 2011 ,
+"round": "quarter" ,
+"player": "Andy Murray" ,
+"DM": 1.419355  
+},
+{
+ "year": 2011 ,
+"round": "quarter" ,
+"player": "Novak Djokovic" ,
+"DM": 1.483871  
+},
+{
+ "year": 2011 ,
+"round": "quarter" ,
+"player": "Roger Federer" ,
+"DM": 1.592593  
+},
+{
+ "year": 2011 ,
+"round": "Final" ,
+"player": "Andy Murray" ,
+"DM": 0.6470588  
+},
+{
+ "year": 2011 ,
+"round": "semi" ,
+"player": "David Ferrer" ,
+"DM": 0.9090909  
+},
+{
+ "year": 2011 ,
+"round": "semi" ,
+"player": "Roger Federer" ,
+"DM": 0.9736842  
+},
+{
+ "year": 2011 ,
+"round": "quarter" ,
+"player": "Rafael Nadal" ,
+"DM": 0.6470588  
+},
+{
+ "year": 2011 ,
+"round": "quarter" ,
+"player": "Alexandr Dolgopolov" ,
+"DM": 0.7045455  
+},
+{
+ "year": 2011 ,
+"round": "quarter" ,
+"player": "Tomas Berdych" ,
+"DM": 0.673913  
+},
+{
+ "year": 2011 ,
+"round": "quarter" ,
+"player": "Stanislas Wawrinka" ,
+"DM": 0.627907  
+}
+]
+
+var top_8_players_2012 = [
+{
+ "year": 2012 ,
+"round": "Final" ,
+"player": "Novak Djokovic" ,
+"DM": 1.205882  
+},
+{
+ "year": 2012 ,
+"round": "semi" ,
+"player": "Novak Djokovic" ,
+"DM": 1.166667  
+},
+{
+ "year": 2012 ,
+"round": "semi" ,
+"player": "Rafael Nadal" ,
+"DM": 1.151515  
+},
+{
+ "year": 2012 ,
+"round": "quarter" ,
+"player": "Novak Djokovic" ,
+"DM": 1.387097  
+},
+{
+ "year": 2012 ,
+"round": "quarter" ,
+"player": "Andy Murray" ,
+"DM": 1.606061  
+},
+{
+ "year": 2012 ,
+"round": "quarter" ,
+"player": "Roger Federer" ,
+"DM":     1.76  
+},
+{
+ "year": 2012 ,
+"round": "quarter" ,
+"player": "Rafael Nadal" ,
+"DM":  1.15625  
+},
+{
+ "year": 2012 ,
+"round": "Final" ,
+"player": "Rafael Nadal" ,
+"DM": 0.8292683  
+},
+{
+ "year": 2012 ,
+"round": "semi" ,
+"player": "Andy Murray" ,
+"DM": 0.8571429  
+},
+{
+ "year": 2012 ,
+"round": "semi" ,
+"player": "Roger Federer" ,
+"DM": 0.8684211  
+},
+{
+ "year": 2012 ,
+"round": "quarter" ,
+"player": "David Ferrer" ,
+"DM": 0.7209302  
+},
+{
+ "year": 2012 ,
+"round": "quarter" ,
+"player": "Kei Nishikori" ,
+"DM": 0.6226415  
+},
+{
+ "year": 2012 ,
+"round": "quarter" ,
+"player": "Juan Martin Del Potro" ,
+"DM": 0.5681818  
+},
+{
+ "year": 2012 ,
+"round": "quarter" ,
+"player": "Tomas Berdych" ,
+"DM": 0.8648649  
+}
+]
+
+var top_8_players_2013 = [
+{
+ "year": 2013 ,
+"round": "Final" ,
+"player": "Novak Djokovic" ,
+"DM": 1.178571  
+},
+{
+ "year": 2013 ,
+"round": "semi" ,
+"player": "Andy Murray" ,
+"DM": 1.344828  
+},
+{
+ "year": 2013 ,
+"round": "semi" ,
+"player": "Novak Djokovic" ,
+"DM": 3.928571  
+},
+{
+ "year": 2013 ,
+"round": "quarter" ,
+"player": "Andy Murray" ,
+"DM": 1.472222  
+},
+{
+ "year": 2013 ,
+"round": "quarter" ,
+"player": "Roger Federer" ,
+"DM": 1.096774  
+},
+{
+ "year": 2013 ,
+"round": "quarter" ,
+"player": "Novak Djokovic" ,
+"DM":  1.62963  
+},
+{
+ "year": 2013 ,
+"round": "quarter" ,
+"player": "David Ferrer" ,
+"DM": 1.171429  
+},
+{
+ "year": 2013 ,
+"round": "Final" ,
+"player": "Andy Murray" ,
+"DM": 0.8484848  
+},
+{
+ "year": 2013 ,
+"round": "semi" ,
+"player": "Roger Federer" ,
+"DM": 0.7435897  
+},
+{
+ "year": 2013 ,
+"round": "semi" ,
+"player": "David Ferrer" ,
+"DM": 0.2545455  
+},
+{
+ "year": 2013 ,
+"round": "quarter" ,
+"player": "Jeremy Chardy" ,
+"DM": 0.6792453  
+},
+{
+ "year": 2013 ,
+"round": "quarter" ,
+"player": "Jo-Wilfried Tsonga" ,
+"DM": 0.9117647  
+},
+{
+ "year": 2013 ,
+"round": "quarter" ,
+"player": "Tomas Berdych" ,
+"DM": 0.6136364  
+},
+{
+ "year": 2013 ,
+"round": "quarter" ,
+"player": "Nicolas Almagro" ,
+"DM": 0.8536585  
+}
+]
+
+var top_8_players_2014 = [
+{
+ "year": 2014 ,
+"round": "Final" ,
+"player": "Stanislas Wawrinka" ,
+"DM": 1.517241  
+},
+{
+ "year": 2014 ,
+"round": "semi" ,
+"player": "Rafael Nadal" ,
+"DM": 1.481481  
+},
+{
+ "year": 2014 ,
+"round": "semi" ,
+"player": "Stanislas Wawrinka" ,
+"DM":        1  
+},
+{
+ "year": 2014 ,
+"round": "quarter" ,
+"player": "Rafael Nadal" ,
+"DM": 1.310345  
+},
+{
+ "year": 2014 ,
+"round": "quarter" ,
+"player": "Roger Federer" ,
+"DM": 1.481481  
+},
+{
+ "year": 2014 ,
+"round": "quarter" ,
+"player": "Stanislas Wawrinka" ,
+"DM": 0.8648649  
+},
+{
+ "year": 2014 ,
+"round": "quarter" ,
+"player": "Tomas Berdych" ,
+"DM": 1.076923  
+},
+{
+ "year": 2014 ,
+"round": "Final" ,
+"player": "Rafael Nadal" ,
+"DM": 0.6590909  
+},
+{
+ "year": 2014 ,
+"round": "semi" ,
+"player": "Roger Federer" ,
+"DM":    0.675  
+},
+{
+ "year": 2014 ,
+"round": "semi" ,
+"player": "Tomas Berdych" ,
+"DM":        1  
+},
+{
+ "year": 2014 ,
+"round": "quarter" ,
+"player": "Grigor Dimitrov" ,
+"DM": 0.7631579  
+},
+{
+ "year": 2014 ,
+"round": "quarter" ,
+"player": "Andy Murray" ,
+"DM":    0.675  
+},
+{
+ "year": 2014 ,
+"round": "quarter" ,
+"player": "Novak Djokovic" ,
+"DM":  1.15625  
+},
+{
+ "year": 2014 ,
+"round": "quarter" ,
+"player": "David Ferrer" ,
+"DM": 0.9285714  
+} 
+]
