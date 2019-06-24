@@ -1,4 +1,4 @@
-# Interactive_Visualization_DominanceRatio_AUSOpen_2004-14
+# AustralianOpen_Visualization
 Unzip everything in a single folder. Open home.html first and then navigate using the directions in the page.
 
 The story consists of three sections
